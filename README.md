@@ -8,7 +8,7 @@ This website was built with HTML and CSS. I used VS Code to write and edit the c
 
 ## Website
 You can find the final product at:
-https://github.com/ballardingram/challenge1.git
+https://ballardingram.github.io/challenge1/
 
 ## Contributions
 This was largely and independent project. I worked with Ask BCS and my TA Ian Sears to commit changes to my GitHub repository.
